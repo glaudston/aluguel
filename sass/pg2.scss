@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-image: url(../img/1215415.jpg);
+}
+.container{
+    margin-left: 10%;
+ display: flex;
+ margin: auto;
+ width: 150%;
+ height: 100vh;
+}
+.carro{
+    height: 400px;
+    font-size: 25px;
+}
+.ft{
+    gap: 100px;
+    width: 250px;
+    
+}
+.row{
+    margin-top: 10%;
+}
+footer{
+    background-color: white;
+}
+p{
+    color: white;
+}
+.form{
+    margin-top: 10%;
+}
+a{
+    color: black;
+}
